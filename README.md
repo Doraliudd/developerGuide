@@ -46,5 +46,7 @@
 
 销售易开发者平台提供了Eclipse插件进行业务逻辑代码开发上传，详见[Eclipse Plugin开发手册](https://github.com/Doraliudd/eclipsePlugin)。
 
-销售易开发者平台提供了沙盒（sandbox）环境，提供给租户创建生产环境的复制版本到沙盒环境的能力，详见Sandbox Beta版使用手册
+销售易开发者平台提供了沙盒（sandbox）环境，提供给租户创建生产环境的复制版本到沙盒环境的能力，详见Sandbox Beta版使用手册。
+
+
 
